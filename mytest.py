@@ -1,3 +1,3 @@
-print("hello")
 print("second")
-peint("third")
+print("third")
+print("fourth")
